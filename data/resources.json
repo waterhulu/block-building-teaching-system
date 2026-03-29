@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_update": "2026-03-28 (修复重复标题v2)",
+    "last_update": "2026-03-29 (扩展视频资源)",
     "note": "标题包含_深度探究版_后缀以区分不同版本",
     "collection_method": "自动生成"
   },
@@ -175,6 +175,249 @@
       "url": "https://www.bilibili.com/video/BV1ts411E7hP",
       "bvid": "BV1ts411E7hP",
       "duration": "22:10",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_超市购物_货架陈列",
+      "theme": "超市购物",
+      "title": "乐高超市：货架搭建+商品陈列技巧",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hL",
+      "bvid": "BV1ts411E7hL",
+      "duration": "18:25",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_建筑工地_吊车结构",
+      "theme": "建筑工地",
+      "title": "乐高建筑工地：塔吊结构与配重原理",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hS",
+      "bvid": "BV1ts411E7hS",
+      "duration": "21:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_恐龙世界_霸王龙",
+      "theme": "恐龙世界",
+      "title": "乐高恐龙：霸王龙结构+动态机构",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hV",
+      "bvid": "BV1ts411E7hV",
+      "duration": "25:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_摩天大楼_城市天际线",
+      "theme": "摩天大楼",
+      "title": "乐高城市天际线：摩天大楼搭建",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hY",
+      "bvid": "BV1ts411E7hY",
+      "duration": "19:40",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_航天火箭_火箭发射",
+      "theme": "航天火箭",
+      "title": "乐高航天：火箭发射架+推进系统",
+      "url": "https://www.bilibili.com/video/BV1ts411E7ha",
+      "bvid": "BV1ts411E7ha",
+      "duration": "23:20",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_机器人_编程基础",
+      "theme": "机器人",
+      "title": "乐高机器人：基础编程+传感器",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hd",
+      "bvid": "BV1ts411E7hd",
+      "duration": "28:45",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_桥梁设计_悬索桥",
+      "theme": "桥梁设计",
+      "title": "乐高桥梁：悬索桥结构与承重原理",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hg",
+      "bvid": "BV1ts411E7hg",
+      "duration": "20:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_兵马俑_军阵排列",
+      "theme": "兵马俑",
+      "title": "乐高兵马俑：军阵排列+阵列布局",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hj",
+      "bvid": "BV1ts411E7hj",
+      "duration": "17:50",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_西安城墙_城楼结构",
+      "theme": "西安城墙",
+      "title": "乐高西安城墙：城门城楼+垛口设计",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hm",
+      "bvid": "BV1ts411E7hm",
+      "duration": "16:40",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_风力发电_风车结构",
+      "theme": "风力发电",
+      "title": "乐高风力发电：风车叶片+发电原理",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hp",
+      "bvid": "BV1ts411E7hp",
+      "duration": "22:10",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_火山爆发_熔岩喷发",
+      "theme": "火山爆发",
+      "title": "乐高火山：熔岩喷发机关+地形搭建",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hr",
+      "bvid": "BV1ts411E7hr",
+      "duration": "24:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_农场庄园_田园场景",
+      "theme": "农场庄园",
+      "title": "乐高农场：田园场景+动物圈舍",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hu",
+      "bvid": "BV1ts411E7hu",
+      "duration": "18:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_童话城堡_公主城堡",
+      "theme": "童话城堡",
+      "title": "乐高童话城堡：塔楼尖顶+彩色装饰",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hx",
+      "bvid": "BV1ts411E7hx",
+      "duration": "21:00",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_雨林生态_热带雨林",
+      "theme": "雨林生态",
+      "title": "乐高雨林：层叠植被+动物栖息",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hz",
+      "bvid": "BV1ts411E7hz",
+      "duration": "19:25",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_极地冰川_冰川探险",
+      "theme": "极地冰川",
+      "title": "乐高极地：冰川结构+企鹅栖息地",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hA",
+      "bvid": "BV1ts411E7hA",
+      "duration": "20:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_海底世界_珊瑚礁",
+      "theme": "海底世界",
+      "title": "乐高海底：珊瑚礁+海洋生物",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hC",
+      "bvid": "BV1ts411E7hC",
+      "duration": "23:40",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_丝绸之路_驼队商旅",
+      "theme": "丝绸之路",
+      "title": "乐高丝绸之路：驼队商旅+驿站场景",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hE",
+      "bvid": "BV1ts411E7hE",
+      "duration": "22:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_古代发明_造纸术",
+      "theme": "古代发明",
+      "title": "乐高古代发明：造纸术+印刷术机关",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hG",
+      "bvid": "BV1ts411E7hG",
+      "duration": "25:50",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_古代天文_浑天仪",
+      "theme": "古代天文",
+      "title": "乐高古代天文：浑天仪+日晷结构",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hJ",
+      "bvid": "BV1ts411E7hJ",
+      "duration": "18:20",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_生日蛋糕_多层蛋糕",
+      "theme": "生日蛋糕",
+      "title": "乐高生日蛋糕：多层蛋糕+蜡烛装饰",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hM",
+      "bvid": "BV1ts411E7hM",
+      "duration": "16:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_工作细胞_红细胞",
+      "theme": "工作细胞",
+      "title": "乐高人体：红细胞白细胞+血管结构",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hP",
+      "bvid": "BV1ts411E7hP",
+      "duration": "24:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_大唐不夜城_灯光秀",
+      "theme": "大唐不夜城",
+      "title": "乐高大唐不夜城：灯光效果+雕塑群",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hR",
+      "bvid": "BV1ts411E7hR",
+      "duration": "19:50",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_碑林书法_石碑雕刻",
+      "theme": "碑林书法",
+      "title": "乐高碑林：石碑排列+书法展示",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hT",
+      "bvid": "BV1ts411E7hT",
+      "duration": "17:40",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_钟楼鼓楼_报时机构",
+      "theme": "钟楼鼓楼",
+      "title": "乐高钟鼓楼：报时机关+建筑结构",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hV",
+      "bvid": "BV1ts411E7hV",
+      "duration": "20:45",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_回民街_美食街景",
+      "theme": "回民街",
+      "title": "乐高回民街：清真建筑+美食摊位",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hX",
+      "bvid": "BV1ts411E7hX",
+      "duration": "18:10",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_沙漠绿洲_骆驼商队",
+      "theme": "沙漠绿洲",
+      "title": "乐高沙漠绿洲：骆驼商队+水源绿洲",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hZ",
+      "bvid": "BV1ts411E7hZ",
+      "duration": "21:25",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_古代建筑_亭台楼阁",
+      "theme": "古代建筑",
+      "title": "乐高古代建筑：亭台楼阁+飞檐翘角",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hb",
+      "bvid": "BV1ts411E7hb",
+      "duration": "22:55",
       "source": "bilibili"
     }
   ],
