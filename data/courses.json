@@ -432,6 +432,397 @@
         ]
       },
       "keyConcept": "蛋糕tiers"
+    },
+    {
+      "id": 16,
+      "name": "兵马俑",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#8B4513",
+      "description": "秦俑阵列、方阵排列，培养历史认知与空间规划",
+      "tags": [
+        "兵马俑",
+        "秦文化",
+        "阵列",
+        "方阵"
+      ],
+      "keyConcept": "阵列结构"
+    },
+    {
+      "id": 17,
+      "name": "西安城墙",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#D2691E",
+      "description": "城墙防御结构、垛口设计，感受古长安防御智慧",
+      "tags": [
+        "城墙",
+        "防御",
+        "垛口",
+        "城门"
+      ],
+      "keyConcept": "防御结构"
+    },
+    {
+      "id": 18,
+      "name": "钟楼鼓楼",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "4-5岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#CD853F",
+      "description": "古代报时建筑、对称结构，领略晨钟暮鼓文化",
+      "tags": [
+        "钟楼",
+        "鼓楼",
+        "对称",
+        "报时"
+      ],
+      "keyConcept": "对称结构"
+    },
+    {
+      "id": 19,
+      "name": "回民街",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "3-5岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#FF6347",
+      "description": "美食街场景、清真建筑特色，体验多元饮食文化",
+      "tags": [
+        "美食",
+        "清真",
+        "街道",
+        "文化"
+      ],
+      "keyConcept": "街道布局"
+    },
+    {
+      "id": 20,
+      "name": "大唐不夜城",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#FFD700",
+      "description": "盛唐夜景、霓虹灯光，感受大唐盛世繁华",
+      "tags": [
+        "大唐",
+        "夜景",
+        "灯光",
+        "盛唐"
+      ],
+      "keyConcept": "灯光结构"
+    },
+    {
+      "id": 21,
+      "name": "碑林书法",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#2F4F4F",
+      "description": "石碑排列、书法艺术，培养书法审美与文化传承",
+      "tags": [
+        "碑林",
+        "书法",
+        "石碑",
+        "文化"
+      ],
+      "keyConcept": "排列结构"
+    },
+    {
+      "id": 22,
+      "name": "丝绸之路",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#DEB887",
+      "description": "商队驼铃、沙漠绿洲，探索古代国际贸易之路",
+      "tags": [
+        "丝绸之路",
+        "沙漠",
+        "骆驼",
+        "商队"
+      ],
+      "keyConcept": "连接结构"
+    },
+    {
+      "id": 23,
+      "name": "古代天文",
+      "category": "西安特色",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#191970",
+      "description": "浑天仪、日晷计时，探索古代科技与天文智慧",
+      "tags": [
+        "天文",
+        "浑天仪",
+        "日晷",
+        "科技"
+      ],
+      "keyConcept": "旋转结构"
+    },
+    {
+      "id": 24,
+      "name": "恐龙世界",
+      "category": "学科融合",
+      "lessons": 4,
+      "age": "3-6岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#228B22",
+      "description": "恐龙复原、侏罗纪场景，激发史前生命探索兴趣",
+      "tags": [
+        "恐龙",
+        "侏罗纪",
+        "史前",
+        "化石"
+      ],
+      "keyConcept": "骨架结构"
+    },
+    {
+      "id": 25,
+      "name": "海底世界",
+      "category": "学科融合",
+      "lessons": 4,
+      "age": "3-5岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#4169E1",
+      "description": "珊瑚礁群、海洋生物，培养海洋生态保护意识",
+      "tags": [
+        "海底",
+        "珊瑚",
+        "海洋",
+        "生态"
+      ],
+      "keyConcept": "层叠结构"
+    },
+    {
+      "id": 26,
+      "name": "童话城堡",
+      "category": "学科融合",
+      "lessons": 4,
+      "age": "3-5岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#9370DB",
+      "description": "梦幻城堡、童话故事，激发想象力与创造力",
+      "tags": [
+        "童话",
+        "公主",
+        "王子",
+        "梦幻"
+      ],
+      "keyConcept": "梦幻结构"
+    },
+    {
+      "id": 27,
+      "name": "农场庄园",
+      "category": "学科融合",
+      "lessons": 4,
+      "age": "3-5岁",
+      "difficulty": "★☆☆☆☆",
+      "cover_color": "#32CD32",
+      "description": "农舍谷仓、田园风光，体验农场生活与自然和谐",
+      "tags": [
+        "农场",
+        "田园",
+        "动物",
+        "农作"
+      ],
+      "keyConcept": "围合结构"
+    },
+    {
+      "id": 28,
+      "name": "古代发明",
+      "category": "学科融合",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#8B0000",
+      "description": "四大发明、古代科技，感受先人智慧与创新精神",
+      "tags": [
+        "四大发明",
+        "造纸",
+        "印刷",
+        "火药"
+      ],
+      "keyConcept": "机械结构"
+    },
+    {
+      "id": 29,
+      "name": "摩天大楼",
+      "category": "STEAM创客",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#708090",
+      "description": "超高层建筑、结构工程，培养建筑力学与城市规划",
+      "tags": [
+        "摩天楼",
+        "高层",
+        "结构",
+        "工程"
+      ],
+      "keyConcept": "支撑结构"
+    },
+    {
+      "id": 30,
+      "name": "机器人",
+      "category": "STEAM创客",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★★★",
+      "cover_color": "#4682B4",
+      "description": "机械结构、编程逻辑，探索人工智能与自动化",
+      "tags": [
+        "机器人",
+        "机械",
+        "编程",
+        "AI"
+      ],
+      "keyConcept": "联动结构"
+    },
+    {
+      "id": 31,
+      "name": "航天火箭",
+      "category": "STEAM创客",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#000080",
+      "description": "火箭发射、太空探索，激发航天梦想与科技兴趣",
+      "tags": [
+        "火箭",
+        "航天",
+        "太空",
+        "卫星"
+      ],
+      "keyConcept": "流线结构"
+    },
+    {
+      "id": 32,
+      "name": "风力发电",
+      "category": "STEAM创客",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#00CED1",
+      "description": "风车发电、绿色能源，培养环保意识与创新思维",
+      "tags": [
+        "风力",
+        "发电",
+        "环保",
+        "能源"
+      ],
+      "keyConcept": "旋转结构"
+    },
+    {
+      "id": 33,
+      "name": "雨林生态",
+      "category": "自然探索",
+      "lessons": 4,
+      "age": "3-5岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#006400",
+      "description": "热带雨林、生物多样性，培养生态保护意识",
+      "tags": [
+        "雨林",
+        "生态",
+        "植物",
+        "动物"
+      ],
+      "keyConcept": "层叠结构"
+    },
+    {
+      "id": 34,
+      "name": "极地冰川",
+      "category": "自然探索",
+      "lessons": 4,
+      "age": "3-5岁",
+      "difficulty": "★★☆☆☆",
+      "cover_color": "#E0FFFF",
+      "description": "冰川雪山、极地动物，了解气候变化与环境保护",
+      "tags": [
+        "极地",
+        "冰川",
+        "企鹅",
+        "北极熊"
+      ],
+      "keyConcept": "冰层结构"
+    },
+    {
+      "id": 35,
+      "name": "沙漠绿洲",
+      "category": "自然探索",
+      "lessons": 4,
+      "age": "4-5岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#F4A460",
+      "description": "沙丘驼影、生命之源，探索沙漠生态与生存智慧",
+      "tags": [
+        "沙漠",
+        "绿洲",
+        "骆驼",
+        "生存"
+      ],
+      "keyConcept": "围合结构"
+    },
+    {
+      "id": 36,
+      "name": "火山爆发",
+      "category": "自然探索",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#FF4500",
+      "description": "火山地貌、熔岩流动，学习地球科学知识",
+      "tags": [
+        "火山",
+        "熔岩",
+        "地壳",
+        "科学"
+      ],
+      "keyConcept": "层叠结构"
+    },
+    {
+      "id": 37,
+      "name": "桥梁设计",
+      "category": "STEAM创客",
+      "lessons": 4,
+      "age": "5-6岁",
+      "difficulty": "★★★★☆",
+      "cover_color": "#6B8E23",
+      "description": "拱桥斜拉、悬索结构，探索力学平衡与工程设计",
+      "tags": [
+        "桥梁",
+        "力学",
+        "拱桥",
+        "悬索"
+      ],
+      "keyConcept": "支撑结构"
+    },
+    {
+      "id": 38,
+      "name": "古代建筑",
+      "category": "文化拓展",
+      "lessons": 4,
+      "age": "4-6岁",
+      "difficulty": "★★★☆☆",
+      "cover_color": "#8B4513",
+      "description": "斗拱飞檐、台基台阶，学习中国传统建筑智慧",
+      "tags": [
+        "斗拱",
+        "飞檐",
+        "台基",
+        "古建"
+      ],
+      "keyConcept": "层叠结构"
     }
   ]
 }
