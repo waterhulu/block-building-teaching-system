@@ -1,0 +1,1058 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_update": "2026-03-28 (修复重复标题v2)",
+    "note": "标题包含_深度探究版_后缀以区分不同版本",
+    "collection_method": "自动生成"
+  },
+  "videos": [
+    {
+      "id": "bili_官方_汽车基础",
+      "theme": "交通工具",
+      "title": "乐高教育：基础车辆搭建（官方）",
+      "url": "https://www.bilibili.com/video/BV1Gs411E7gY",
+      "bvid": "BV1Gs411E7gY",
+      "duration": "08:32",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_探索站_汽车",
+      "theme": "交通工具",
+      "title": "大颗粒乐高：汽车轮轴系统详解",
+      "url": "https://www.bilibili.com/video/BV1nW41187T3",
+      "bvid": "BV1nW41187T3",
+      "duration": "15:47",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_探索站_飞机",
+      "theme": "交通工具",
+      "title": "乐高飞机：机翼角度与飞行原理",
+      "url": "https://www.bilibili.com/video/BV1yW411c7Zy",
+      "bvid": "BV1yW411c7Zy",
+      "duration": "12:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_工程车_挖掘机",
+      "theme": "工程车队",
+      "title": "乐高工程车系列：挖掘机+翻斗车组合",
+      "url": "https://www.bilibili.com/video/BV1Rb411d7yR",
+      "bvid": "BV1Rb411d7yR",
+      "duration": "22:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_工程车_起重机",
+      "theme": "工程车队",
+      "title": "乐高起重机：臂架结构与杠杆原理",
+      "url": "https://www.bilibili.com/video/BV1Qs411E76W",
+      "bvid": "BV1Qs411E76W",
+      "duration": "16:45",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_工程车_翻斗车",
+      "theme": "工程车队",
+      "title": "乐高翻斗车：货箱结构与倾卸机构",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hM",
+      "bvid": "BV1ts411E7hM",
+      "duration": "18:20",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_停车场_升降系统",
+      "theme": "停车场",
+      "title": "乐高停车场：三层升降系统详解",
+      "url": "https://www.bilibili.com/video/BV1Ns411E75o",
+      "bvid": "BV1Ns411E75o",
+      "duration": "14:12",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_公共汽车_报站系统",
+      "theme": "公共汽车",
+      "title": "大颗粒乐高：公交车到站语音报站系统",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hT",
+      "bvid": "BV1ts411E7hT",
+      "duration": "25:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_城堡_砖墙结构",
+      "theme": "城堡",
+      "title": "乐高城堡搭建：砖墙结构+吊桥设计",
+      "url": "https://www.bilibili.com/video/BV1rs411E7iZ",
+      "bvid": "BV1rs411E7iZ",
+      "duration": "20:08",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_太空站_对接舱",
+      "theme": "太空站",
+      "title": "太空站模块化搭建：对接舱+太阳能板",
+      "url": "https://www.bilibili.com/video/BV1ys411E71s",
+      "bvid": "BV1ys411E71s",
+      "duration": "19:45",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_动物园_栖息地",
+      "theme": "动物园",
+      "title": "乐高动物园：动物栖息地设计（狮子、长颈鹿）",
+      "url": "https://www.bilibili.com/video/BV1Ks411E7tP",
+      "bvid": "BV1Ks411E7tP",
+      "duration": "28:12",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_游乐园_过山车",
+      "theme": "游乐园",
+      "title": "乐高过山车：坡度设计与重力运动",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hK",
+      "bvid": "BV1ts411E7hK",
+      "duration": "17:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_厨房_厨具收纳",
+      "theme": "厨房",
+      "title": "乐高厨房：燃气灶+水槽+收纳系统",
+      "url": "https://www.bilibili.com/video/BV1Ns411E75Q",
+      "bvid": "BV1Ns411E75Q",
+      "duration": "21:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_工程车_搅拌车",
+      "theme": "工程车队",
+      "title": "乐高搅拌车：滚筒结构与旋转机制",
+      "url": "https://www.bilibili.com/video/BV1Ys411E7xH",
+      "bvid": "BV1Ys411E7xH",
+      "duration": "26:40",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_我的卧室_衣柜",
+      "theme": "我的卧室",
+      "title": "乐高卧室：双人床+衣柜+书房组合",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hF",
+      "bvid": "BV1ts411E7hF",
+      "duration": "23:50",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_我的城市_消防站",
+      "theme": "我的城市",
+      "title": "乐高城市：消防站+消防车完整搭建",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hX",
+      "bvid": "BV1ts411E7hX",
+      "duration": "24:15",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_大雁塔_塔身结构",
+      "theme": "大雁塔",
+      "title": "乐高大雁塔：唐代塔楼建筑结构解析",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hW",
+      "bvid": "BV1ts411E7hW",
+      "duration": "20:30",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_西游记_花果山",
+      "theme": "西游记",
+      "title": "乐高西游记：花果山+水帘洞场景还原",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hZ",
+      "bvid": "BV1ts411E7hZ",
+      "duration": "18:45",
+      "source": "bilibili"
+    },
+    {
+      "id": "bili_传统建筑_飞檐翘角",
+      "theme": "传统建筑",
+      "title": "乐高中式建筑：飞檐翘角+斗拱结构",
+      "url": "https://www.bilibili.com/video/BV1ts411E7hP",
+      "bvid": "BV1ts411E7hP",
+      "duration": "22:10",
+      "source": "bilibili"
+    }
+  ],
+  "images": [
+    {
+      "id": "pin_search_超市购物",
+      "theme": "超市购物",
+      "title": "点击搜索：LEGO Supermarket building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Supermarket+building+instructions",
+      "search_query": "LEGO Supermarket building instructions",
+      "source": "pinterest_search",
+      "note": "在Pinterest搜索超市搭建参考图"
+    },
+    {
+      "id": "pin_search_我的卧室",
+      "theme": "我的卧室",
+      "title": "点击搜索：LEGO Bedroom building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Bedroom+building+instructions",
+      "search_query": "LEGO Bedroom building instructions",
+      "source": "pinterest_search",
+      "note": "搜索床、衣柜、书桌搭建图"
+    },
+    {
+      "id": "pin_search_游乐园",
+      "theme": "游乐园",
+      "title": "点击搜索：LEGO Amusement Park building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Amusement+Park+building+instructions",
+      "search_query": "LEGO Amusement Park building instructions",
+      "source": "pinterest_search",
+      "note": "搜索旋转木马、过山车搭建图"
+    },
+    {
+      "id": "pin_search_厨房",
+      "theme": "厨房",
+      "title": "点击搜索：LEGO Kitchen building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Kitchen+building+instructions",
+      "search_query": "LEGO Kitchen building instructions",
+      "source": "pinterest_search",
+      "note": "搜索灶台、橱柜搭建图"
+    },
+    {
+      "id": "pin_search_工程车队",
+      "theme": "工程车队",
+      "title": "点击搜索：LEGO Construction Vehicles building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Construction+Vehicles+building+instructions",
+      "search_query": "LEGO Construction Vehicles building instructions",
+      "source": "pinterest_search",
+      "note": "搜索挖掘机、起重机搭建图"
+    },
+    {
+      "id": "pin_search_交通工具",
+      "theme": "交通工具",
+      "title": "点击搜索：LEGO Transportation building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Transportation+building+instructions",
+      "search_query": "LEGO Transportation building instructions",
+      "source": "pinterest_search",
+      "note": "搜索汽车、飞机、火车搭建图"
+    },
+    {
+      "id": "pin_search_建筑工地",
+      "theme": "停车场",
+      "title": "点击搜索：LEGO Construction Site building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Construction+Site+building+instructions",
+      "search_query": "LEGO Construction Site building instructions",
+      "source": "pinterest_search",
+      "note": "搜索吊车、搅拌车搭建图"
+    },
+    {
+      "id": "pin_search_动物园",
+      "theme": "动物园",
+      "title": "点击搜索：LEGO Zoo building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Zoo+building+instructions",
+      "search_query": "LEGO Zoo building instructions",
+      "source": "pinterest_search",
+      "note": "搜索动物栖息地、围栏搭建图"
+    },
+    {
+      "id": "pin_search_大雁塔",
+      "theme": "大雁塔",
+      "title": "点击搜索：LEGO Ancient Tower building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Ancient+Tower+building+instructions",
+      "search_query": "LEGO Ancient Tower building instructions",
+      "source": "pinterest_search",
+      "note": "搜索古建筑、塔楼搭建图"
+    },
+    {
+      "id": "pin_search_城堡",
+      "theme": "城堡",
+      "title": "点击搜索：LEGO Castle building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Castle+building+instructions",
+      "search_query": "LEGO Castle building instructions",
+      "source": "pinterest_search",
+      "note": "搜索城堡、城墙搭建图"
+    },
+    {
+      "id": "pin_search_太空站",
+      "theme": "太空站",
+      "title": "点击搜索：LEGO Space Station building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Space+Station+building+instructions",
+      "search_query": "LEGO Space Station building instructions",
+      "source": "pinterest_search",
+      "note": "搜索太空站、航天器搭建图"
+    },
+    {
+      "id": "pin_search_我的城市",
+      "theme": "我的城市",
+      "title": "点击搜索：LEGO City building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+City+building+instructions",
+      "search_query": "LEGO City building instructions",
+      "source": "pinterest_search",
+      "note": "搜索城市规划、建筑设计图"
+    },
+    {
+      "id": "pin_search_厨房",
+      "theme": "厨房",
+      "title": "点击搜索：LEGO Kitchen building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Kitchen+building+instructions",
+      "search_query": "LEGO Kitchen building instructions",
+      "source": "pinterest_search",
+      "note": "搜索灶台、橱柜搭建图"
+    },
+    {
+      "id": "pin_search_西游记",
+      "theme": "西游记",
+      "title": "点击搜索：LEGO Journey to the West building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Journey+to+the+West+building+instructions",
+      "search_query": "LEGO Journey to the West building instructions",
+      "source": "pinterest_search",
+      "note": "搜索花果山、水帘洞搭建图"
+    },
+    {
+      "id": "pin_search_传统建筑",
+      "theme": "传统建筑",
+      "title": "点击搜索：LEGO Chinese Traditional Architecture building instructions",
+      "url": "https://www.pinterest.com/search/pins/?q=LEGO+Chinese+Traditional+Architecture+building+instructions",
+      "search_query": "LEGO Chinese Traditional Architecture building instructions",
+      "source": "pinterest_search",
+      "note": "搜索飞檐、斗拱、亭台楼阁搭建图"
+    }
+  ],
+  "lesson_plans": [
+    {
+      "id": "plan_交通工具_交通工具_第1课时_基础车辆_深度探究版",
+      "theme": "交通工具",
+      "title": "交通工具 第1课时 基础车辆 深度探究版",
+      "filepath": "交通工具/交通工具_第1课时_基础车辆_深度探究版.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第1课时_轮轴系统",
+      "theme": "交通工具",
+      "title": "交通工具 第1课时 轮轴系统",
+      "filepath": "交通工具/交通工具_第1课时_轮轴系统.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第2课时_转向系统_深度探究版",
+      "theme": "交通工具",
+      "title": "交通工具 第2课时 转向系统 深度探究版",
+      "filepath": "交通工具/交通工具_第2课时_转向系统_深度探究版.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第2课时_轮轴系统",
+      "theme": "交通工具",
+      "title": "交通工具 第2课时 轮轴系统",
+      "filepath": "交通工具/交通工具_第2课时_轮轴系统.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第3课时_动力传动_深度探究版",
+      "theme": "交通工具",
+      "title": "交通工具 第3课时 动力传动 深度探究版",
+      "filepath": "交通工具/交通工具_第3课时_动力传动_深度探究版.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第3课时_轮轴系统",
+      "theme": "交通工具",
+      "title": "交通工具 第3课时 轮轴系统",
+      "filepath": "交通工具/交通工具_第3课时_轮轴系统.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第4课时_外观美学_深度探究版",
+      "theme": "交通工具",
+      "title": "交通工具 第4课时 外观美学 深度探究版",
+      "filepath": "交通工具/交通工具_第4课时_外观美学_深度探究版.md"
+    },
+    {
+      "id": "plan_交通工具_交通工具_第4课时_轮轴系统",
+      "theme": "交通工具",
+      "title": "交通工具 第4课时 轮轴系统",
+      "filepath": "交通工具/交通工具_第4课时_轮轴系统.md"
+    },
+    {
+      "id": "plan_传统建筑_传统建筑_第1课时_台基基座_深度探究版",
+      "theme": "传统建筑",
+      "title": "传统建筑 第1课时 台基基座 深度探究版",
+      "filepath": "传统建筑/传统建筑_第1课时_台基基座_深度探究版.md"
+    },
+    {
+      "id": "plan_传统建筑_传统建筑_第2课时_屋身墙体_深度探究版",
+      "theme": "传统建筑",
+      "title": "传统建筑 第2课时 屋身墙体 深度探究版",
+      "filepath": "传统建筑/传统建筑_第2课时_屋身墙体_深度探究版.md"
+    },
+    {
+      "id": "plan_传统建筑_传统建筑_第3课时_飞檐翘角_深度探究版",
+      "theme": "传统建筑",
+      "title": "传统建筑 第3课时 飞檐翘角 深度探究版",
+      "filepath": "传统建筑/传统建筑_第3课时_飞檐翘角_深度探究版.md"
+    },
+    {
+      "id": "plan_传统建筑_传统建筑_第4课时_斗拱结构_深度探究版",
+      "theme": "传统建筑",
+      "title": "传统建筑 第4课时 斗拱结构 深度探究版",
+      "filepath": "传统建筑/传统建筑_第4课时_斗拱结构_深度探究版.md"
+    },
+    {
+      "id": "plan_停车场_停车场_第1课时_升降系统_深度探究版",
+      "theme": "停车场",
+      "title": "停车场 第1课时 升降系统 深度探究版",
+      "filepath": "停车场/停车场_第1课时_升降系统_深度探究版.md"
+    },
+    {
+      "id": "plan_停车场_停车场_第2课时_车位设计_深度探究版",
+      "theme": "停车场",
+      "title": "停车场 第2课时 车位设计 深度探究版",
+      "filepath": "停车场/停车场_第2课时_车位设计_深度探究版.md"
+    },
+    {
+      "id": "plan_停车场_停车场_第3课时_收费系统_深度探究版",
+      "theme": "停车场",
+      "title": "停车场 第3课时 收费系统 深度探究版",
+      "filepath": "停车场/停车场_第3课时_收费系统_深度探究版.md"
+    },
+    {
+      "id": "plan_停车场_停车场_第4课时_智能引导_深度探究版",
+      "theme": "停车场",
+      "title": "停车场 第4课时 智能引导 深度探究版",
+      "filepath": "停车场/停车场_第4课时_智能引导_深度探究版.md"
+    },
+    {
+      "id": "plan_公共汽车_公共汽车_第1课时_车身结构_深度探究版",
+      "theme": "公共汽车",
+      "title": "公共汽车 第1课时 车身结构 深度探究版",
+      "filepath": "公共汽车/公共汽车_第1课时_车身结构_深度探究版.md"
+    },
+    {
+      "id": "plan_公共汽车_公共汽车_第2课时_车门机构_深度探究版",
+      "theme": "公共汽车",
+      "title": "公共汽车 第2课时 车门机构 深度探究版",
+      "filepath": "公共汽车/公共汽车_第2课时_车门机构_深度探究版.md"
+    },
+    {
+      "id": "plan_公共汽车_公共汽车_第3课时_报站系统_深度探究版",
+      "theme": "公共汽车",
+      "title": "公共汽车 第3课时 报站系统 深度探究版",
+      "filepath": "公共汽车/公共汽车_第3课时_报站系统_深度探究版.md"
+    },
+    {
+      "id": "plan_公共汽车_公共汽车_第4课时_路线规划_深度探究版",
+      "theme": "公共汽车",
+      "title": "公共汽车 第4课时 路线规划 深度探究版",
+      "filepath": "公共汽车/公共汽车_第4课时_路线规划_深度探究版.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第1课时_狮子栖息地_深度探究版",
+      "theme": "动物园",
+      "title": "动物园 第1课时 狮子栖息地 深度探究版",
+      "filepath": "动物园/动物园_第1课时_狮子栖息地_深度探究版.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第1课时_网格结构",
+      "theme": "动物园",
+      "title": "动物园 第1课时 网格结构",
+      "filepath": "动物园/动物园_第1课时_网格结构.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第2课时_网格结构",
+      "theme": "动物园",
+      "title": "动物园 第2课时 网格结构",
+      "filepath": "动物园/动物园_第2课时_网格结构.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第2课时_长颈鹿馆_深度探究版",
+      "theme": "动物园",
+      "title": "动物园 第2课时 长颈鹿馆 深度探究版",
+      "filepath": "动物园/动物园_第2课时_长颈鹿馆_深度探究版.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第3课时_熊猫馆_深度探究版",
+      "theme": "动物园",
+      "title": "动物园 第3课时 熊猫馆 深度探究版",
+      "filepath": "动物园/动物园_第3课时_熊猫馆_深度探究版.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第3课时_网格结构",
+      "theme": "动物园",
+      "title": "动物园 第3课时 网格结构",
+      "filepath": "动物园/动物园_第3课时_网格结构.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第4课时_游览路线_深度探究版",
+      "theme": "动物园",
+      "title": "动物园 第4课时 游览路线 深度探究版",
+      "filepath": "动物园/动物园_第4课时_游览路线_深度探究版.md"
+    },
+    {
+      "id": "plan_动物园_动物园_第4课时_网格结构",
+      "theme": "动物园",
+      "title": "动物园 第4课时 网格结构",
+      "filepath": "动物园/动物园_第4课时_网格结构.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第1课时_灶台结构_深度探究版",
+      "theme": "厨房",
+      "title": "厨房 第1课时 灶台结构 深度探究版",
+      "filepath": "厨房/厨房_第1课时_灶台结构_深度探究版.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第1课时_箱体结构",
+      "theme": "厨房",
+      "title": "厨房 第1课时 箱体结构",
+      "filepath": "厨房/厨房_第1课时_箱体结构.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第2课时_水槽排水_深度探究版",
+      "theme": "厨房",
+      "title": "厨房 第2课时 水槽排水 深度探究版",
+      "filepath": "厨房/厨房_第2课时_水槽排水_深度探究版.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第2课时_箱体结构",
+      "theme": "厨房",
+      "title": "厨房 第2课时 箱体结构",
+      "filepath": "厨房/厨房_第2课时_箱体结构.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第3课时_橱柜设计_深度探究版",
+      "theme": "厨房",
+      "title": "厨房 第3课时 橱柜设计 深度探究版",
+      "filepath": "厨房/厨房_第3课时_橱柜设计_深度探究版.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第3课时_箱体结构",
+      "theme": "厨房",
+      "title": "厨房 第3课时 箱体结构",
+      "filepath": "厨房/厨房_第3课时_箱体结构.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第4课时_厨具收纳_深度探究版",
+      "theme": "厨房",
+      "title": "厨房 第4课时 厨具收纳 深度探究版",
+      "filepath": "厨房/厨房_第4课时_厨具收纳_深度探究版.md"
+    },
+    {
+      "id": "plan_厨房_厨房_第4课时_箱体结构",
+      "theme": "厨房",
+      "title": "厨房 第4课时 箱体结构",
+      "filepath": "厨房/厨房_第4课时_箱体结构.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第1课时_城墙防御_深度探究版",
+      "theme": "城堡",
+      "title": "城堡 第1课时 城墙防御 深度探究版",
+      "filepath": "城堡/城堡_第1课时_城墙防御_深度探究版.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第1课时_拱券结构",
+      "theme": "城堡",
+      "title": "城堡 第1课时 拱券结构",
+      "filepath": "城堡/城堡_第1课时_拱券结构.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第2课时_城门塔楼_深度探究版",
+      "theme": "城堡",
+      "title": "城堡 第2课时 城门塔楼 深度探究版",
+      "filepath": "城堡/城堡_第2课时_城门塔楼_深度探究版.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第2课时_拱券结构",
+      "theme": "城堡",
+      "title": "城堡 第2课时 拱券结构",
+      "filepath": "城堡/城堡_第2课时_拱券结构.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第3课时_吊桥结构_深度探究版",
+      "theme": "城堡",
+      "title": "城堡 第3课时 吊桥结构 深度探究版",
+      "filepath": "城堡/城堡_第3课时_吊桥结构_深度探究版.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第3课时_拱券结构",
+      "theme": "城堡",
+      "title": "城堡 第3课时 拱券结构",
+      "filepath": "城堡/城堡_第3课时_拱券结构.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第4课时_拱券结构",
+      "theme": "城堡",
+      "title": "城堡 第4课时 拱券结构",
+      "filepath": "城堡/城堡_第4课时_拱券结构.md"
+    },
+    {
+      "id": "plan_城堡_城堡_第4课时_王室宫殿_深度探究版",
+      "theme": "城堡",
+      "title": "城堡 第4课时 王室宫殿 深度探究版",
+      "filepath": "城堡/城堡_第4课时_王室宫殿_深度探究版.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第1课时_塔基塔身_深度探究版",
+      "theme": "大雁塔",
+      "title": "大雁塔 第1课时 塔基塔身 深度探究版",
+      "filepath": "大雁塔/大雁塔_第1课时_塔基塔身_深度探究版.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第1课时_层叠对称",
+      "theme": "大雁塔",
+      "title": "大雁塔 第1课时 层叠对称",
+      "filepath": "大雁塔/大雁塔_第1课时_层叠对称.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第2课时_塔檐结构_深度探究版",
+      "theme": "大雁塔",
+      "title": "大雁塔 第2课时 塔檐结构 深度探究版",
+      "filepath": "大雁塔/大雁塔_第2课时_塔檐结构_深度探究版.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第2课时_层叠对称",
+      "theme": "大雁塔",
+      "title": "大雁塔 第2课时 层叠对称",
+      "filepath": "大雁塔/大雁塔_第2课时_层叠对称.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第3课时_塔刹造型_深度探究版",
+      "theme": "大雁塔",
+      "title": "大雁塔 第3课时 塔刹造型 深度探究版",
+      "filepath": "大雁塔/大雁塔_第3课时_塔刹造型_深度探究版.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第3课时_层叠对称",
+      "theme": "大雁塔",
+      "title": "大雁塔 第3课时 层叠对称",
+      "filepath": "大雁塔/大雁塔_第3课时_层叠对称.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第4课时_古建复原_深度探究版",
+      "theme": "大雁塔",
+      "title": "大雁塔 第4课时 古建复原 深度探究版",
+      "filepath": "大雁塔/大雁塔_第4课时_古建复原_深度探究版.md"
+    },
+    {
+      "id": "plan_大雁塔_大雁塔_第4课时_层叠对称",
+      "theme": "大雁塔",
+      "title": "大雁塔 第4课时 层叠对称",
+      "filepath": "大雁塔/大雁塔_第4课时_层叠对称.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第1课时_圆形结构",
+      "theme": "太空站",
+      "title": "太空站 第1课时 圆形结构",
+      "filepath": "太空站/太空站_第1课时_圆形结构.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第1课时_核心舱结构_深度探究版",
+      "theme": "太空站",
+      "title": "太空站 第1课时 核心舱结构 深度探究版",
+      "filepath": "太空站/太空站_第1课时_核心舱结构_深度探究版.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第2课时_圆形结构",
+      "theme": "太空站",
+      "title": "太空站 第2课时 圆形结构",
+      "filepath": "太空站/太空站_第2课时_圆形结构.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第2课时_对接舱口_深度探究版",
+      "theme": "太空站",
+      "title": "太空站 第2课时 对接舱口 深度探究版",
+      "filepath": "太空站/太空站_第2课时_对接舱口_深度探究版.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第3课时_圆形结构",
+      "theme": "太空站",
+      "title": "太空站 第3课时 圆形结构",
+      "filepath": "太空站/太空站_第3课时_圆形结构.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第3课时_太阳能板_深度探究版",
+      "theme": "太空站",
+      "title": "太空站 第3课时 太阳能板 深度探究版",
+      "filepath": "太空站/太空站_第3课时_太阳能板_深度探究版.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第4课时_圆形结构",
+      "theme": "太空站",
+      "title": "太空站 第4课时 圆形结构",
+      "filepath": "太空站/太空站_第4课时_圆形结构.md"
+    },
+    {
+      "id": "plan_太空站_太空站_第4课时_实验舱段_深度探究版",
+      "theme": "太空站",
+      "title": "太空站 第4课时 实验舱段 深度探究版",
+      "filepath": "太空站/太空站_第4课时_实验舱段_深度探究版.md"
+    },
+    {
+      "id": "plan_工作细胞_工作细胞_第1课时_人体结构",
+      "theme": "工作细胞",
+      "title": "工作细胞 第1课时 人体结构",
+      "filepath": "工作细胞/工作细胞_第1课时_人体结构.md"
+    },
+    {
+      "id": "plan_工作细胞_工作细胞_第2课时_人体结构",
+      "theme": "工作细胞",
+      "title": "工作细胞 第2课时 人体结构",
+      "filepath": "工作细胞/工作细胞_第2课时_人体结构.md"
+    },
+    {
+      "id": "plan_工作细胞_工作细胞_第3课时_人体结构",
+      "theme": "工作细胞",
+      "title": "工作细胞 第3课时 人体结构",
+      "filepath": "工作细胞/工作细胞_第3课时_人体结构.md"
+    },
+    {
+      "id": "plan_工作细胞_工作细胞_第4课时_人体结构",
+      "theme": "工作细胞",
+      "title": "工作细胞 第4课时 人体结构",
+      "filepath": "工作细胞/工作细胞_第4课时_人体结构.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第1课时_平面互锁",
+      "theme": "工程车队",
+      "title": "工程车队 第1课时 平面互锁",
+      "filepath": "工程车队/工程车队_第1课时_平面互锁.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第1课时_挖掘机结构_深度探究版",
+      "theme": "工程车队",
+      "title": "工程车队 第1课时 挖掘机结构 深度探究版",
+      "filepath": "工程车队/工程车队_第1课时_挖掘机结构_深度探究版.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第2课时_平面互锁",
+      "theme": "工程车队",
+      "title": "工程车队 第2课时 平面互锁",
+      "filepath": "工程车队/工程车队_第2课时_平面互锁.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第2课时_起重机臂架_深度探究版",
+      "theme": "工程车队",
+      "title": "工程车队 第2课时 起重机臂架 深度探究版",
+      "filepath": "工程车队/工程车队_第2课时_起重机臂架_深度探究版.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第3课时_平面互锁",
+      "theme": "工程车队",
+      "title": "工程车队 第3课时 平面互锁",
+      "filepath": "工程车队/工程车队_第3课时_平面互锁.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第3课时_翻斗货箱_深度探究版",
+      "theme": "工程车队",
+      "title": "工程车队 第3课时 翻斗货箱 深度探究版",
+      "filepath": "工程车队/工程车队_第3课时_翻斗货箱_深度探究版.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第4课时_平面互锁",
+      "theme": "工程车队",
+      "title": "工程车队 第4课时 平面互锁",
+      "filepath": "工程车队/工程车队_第4课时_平面互锁.md"
+    },
+    {
+      "id": "plan_工程车队_工程车队_第4课时_搅拌滚筒_深度探究版",
+      "theme": "工程车队",
+      "title": "工程车队 第4课时 搅拌滚筒 深度探究版",
+      "filepath": "工程车队/工程车队_第4课时_搅拌滚筒_深度探究版.md"
+    },
+    {
+      "id": "plan_建筑工地_建筑工地_第1课时_杠杆原理",
+      "theme": "建筑工地",
+      "title": "建筑工地 第1课时 杠杆原理",
+      "filepath": "建筑工地/建筑工地_第1课时_杠杆原理.md"
+    },
+    {
+      "id": "plan_建筑工地_建筑工地_第2课时_杠杆原理",
+      "theme": "建筑工地",
+      "title": "建筑工地 第2课时 杠杆原理",
+      "filepath": "建筑工地/建筑工地_第2课时_杠杆原理.md"
+    },
+    {
+      "id": "plan_建筑工地_建筑工地_第3课时_杠杆原理",
+      "theme": "建筑工地",
+      "title": "建筑工地 第3课时 杠杆原理",
+      "filepath": "建筑工地/建筑工地_第3课时_杠杆原理.md"
+    },
+    {
+      "id": "plan_建筑工地_建筑工地_第4课时_杠杆原理",
+      "theme": "建筑工地",
+      "title": "建筑工地 第4课时 杠杆原理",
+      "filepath": "建筑工地/建筑工地_第4课时_杠杆原理.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第1课时_空间比例_深度探究版",
+      "theme": "我的卧室",
+      "title": "我的卧室 第1课时 空间比例 深度探究版",
+      "filepath": "我的卧室/我的卧室_第1课时_空间比例_深度探究版.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第1课时_门铰链结构",
+      "theme": "我的卧室",
+      "title": "我的卧室 第1课时 门铰链结构",
+      "filepath": "我的卧室/我的卧室_第1课时_门铰链结构.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第2课时_铰链结构_深度探究版",
+      "theme": "我的卧室",
+      "title": "我的卧室 第2课时 铰链结构 深度探究版",
+      "filepath": "我的卧室/我的卧室_第2课时_铰链结构_深度探究版.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第2课时_门铰链结构",
+      "theme": "我的卧室",
+      "title": "我的卧室 第2课时 门铰链结构",
+      "filepath": "我的卧室/我的卧室_第2课时_门铰链结构.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第3课时_收纳系统_深度探究版",
+      "theme": "我的卧室",
+      "title": "我的卧室 第3课时 收纳系统 深度探究版",
+      "filepath": "我的卧室/我的卧室_第3课时_收纳系统_深度探究版.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第3课时_门铰链结构",
+      "theme": "我的卧室",
+      "title": "我的卧室 第3课时 门铰链结构",
+      "filepath": "我的卧室/我的卧室_第3课时_门铰链结构.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第4课时_个性化装饰_深度探究版",
+      "theme": "我的卧室",
+      "title": "我的卧室 第4课时 个性化装饰 深度探究版",
+      "filepath": "我的卧室/我的卧室_第4课时_个性化装饰_深度探究版.md"
+    },
+    {
+      "id": "plan_我的卧室_我的卧室_第4课时_门铰链结构",
+      "theme": "我的卧室",
+      "title": "我的卧室 第4课时 门铰链结构",
+      "filepath": "我的卧室/我的卧室_第4课时_门铰链结构.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第1课时_城市规划_深度探究版",
+      "theme": "我的城市",
+      "title": "我的城市 第1课时 城市规划 深度探究版",
+      "filepath": "我的城市/我的城市_第1课时_城市规划_深度探究版.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第1课时_综合运用",
+      "theme": "我的城市",
+      "title": "我的城市 第1课时 综合运用",
+      "filepath": "我的城市/我的城市_第1课时_综合运用.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第2课时_建筑设计_深度探究版",
+      "theme": "我的城市",
+      "title": "我的城市 第2课时 建筑设计 深度探究版",
+      "filepath": "我的城市/我的城市_第2课时_建筑设计_深度探究版.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第2课时_综合运用",
+      "theme": "我的城市",
+      "title": "我的城市 第2课时 综合运用",
+      "filepath": "我的城市/我的城市_第2课时_综合运用.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第3课时_交通网络_深度探究版",
+      "theme": "我的城市",
+      "title": "我的城市 第3课时 交通网络 深度探究版",
+      "filepath": "我的城市/我的城市_第3课时_交通网络_深度探究版.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第3课时_综合运用",
+      "theme": "我的城市",
+      "title": "我的城市 第3课时 综合运用",
+      "filepath": "我的城市/我的城市_第3课时_综合运用.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第4课时_公共设施_深度探究版",
+      "theme": "我的城市",
+      "title": "我的城市 第4课时 公共设施 深度探究版",
+      "filepath": "我的城市/我的城市_第4课时_公共设施_深度探究版.md"
+    },
+    {
+      "id": "plan_我的城市_我的城市_第4课时_综合运用",
+      "theme": "我的城市",
+      "title": "我的城市 第4课时 综合运用",
+      "filepath": "我的城市/我的城市_第4课时_综合运用.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第1课时_旋转与斜坡",
+      "theme": "游乐园",
+      "title": "游乐园 第1课时 旋转与斜坡",
+      "filepath": "游乐园/游乐园_第1课时_旋转与斜坡.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第1课时_旋转木马_深度探究版",
+      "theme": "游乐园",
+      "title": "游乐园 第1课时 旋转木马 深度探究版",
+      "filepath": "游乐园/游乐园_第1课时_旋转木马_深度探究版.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第2课时_旋转与斜坡",
+      "theme": "游乐园",
+      "title": "游乐园 第2课时 旋转与斜坡",
+      "filepath": "游乐园/游乐园_第2课时_旋转与斜坡.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第2课时_过山车_深度探究版",
+      "theme": "游乐园",
+      "title": "游乐园 第2课时 过山车 深度探究版",
+      "filepath": "游乐园/游乐园_第2课时_过山车_深度探究版.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第3课时_摩天轮_深度探究版",
+      "theme": "游乐园",
+      "title": "游乐园 第3课时 摩天轮 深度探究版",
+      "filepath": "游乐园/游乐园_第3课时_摩天轮_深度探究版.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第3课时_旋转与斜坡",
+      "theme": "游乐园",
+      "title": "游乐园 第3课时 旋转与斜坡",
+      "filepath": "游乐园/游乐园_第3课时_旋转与斜坡.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第4课时_旋转与斜坡",
+      "theme": "游乐园",
+      "title": "游乐园 第4课时 旋转与斜坡",
+      "filepath": "游乐园/游乐园_第4课时_旋转与斜坡.md"
+    },
+    {
+      "id": "plan_游乐园_游乐园_第4课时_海盗船_深度探究版",
+      "theme": "游乐园",
+      "title": "游乐园 第4课时 海盗船 深度探究版",
+      "filepath": "游乐园/游乐园_第4课时_海盗船_深度探究版.md"
+    },
+    {
+      "id": "plan_生日蛋糕_生日蛋糕_第1课时_蛋糕tiers",
+      "theme": "生日蛋糕",
+      "title": "生日蛋糕 第1课时 蛋糕tiers",
+      "filepath": "生日蛋糕/生日蛋糕_第1课时_蛋糕tiers.md"
+    },
+    {
+      "id": "plan_生日蛋糕_生日蛋糕_第2课时_蛋糕tiers",
+      "theme": "生日蛋糕",
+      "title": "生日蛋糕 第2课时 蛋糕tiers",
+      "filepath": "生日蛋糕/生日蛋糕_第2课时_蛋糕tiers.md"
+    },
+    {
+      "id": "plan_生日蛋糕_生日蛋糕_第3课时_蛋糕tiers",
+      "theme": "生日蛋糕",
+      "title": "生日蛋糕 第3课时 蛋糕tiers",
+      "filepath": "生日蛋糕/生日蛋糕_第3课时_蛋糕tiers.md"
+    },
+    {
+      "id": "plan_生日蛋糕_生日蛋糕_第4课时_蛋糕tiers",
+      "theme": "生日蛋糕",
+      "title": "生日蛋糕 第4课时 蛋糕tiers",
+      "filepath": "生日蛋糕/生日蛋糕_第4课时_蛋糕tiers.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第1课时_中国古建筑",
+      "theme": "西游记",
+      "title": "西游记 第1课时 中国古建筑",
+      "filepath": "西游记/西游记_第1课时_中国古建筑.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第1课时_花果山场景_深度探究版",
+      "theme": "西游记",
+      "title": "西游记 第1课时 花果山场景 深度探究版",
+      "filepath": "西游记/西游记_第1课时_花果山场景_深度探究版.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第2课时_中国古建筑",
+      "theme": "西游记",
+      "title": "西游记 第2课时 中国古建筑",
+      "filepath": "西游记/西游记_第2课时_中国古建筑.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第2课时_水帘洞_深度探究版",
+      "theme": "西游记",
+      "title": "西游记 第2课时 水帘洞 深度探究版",
+      "filepath": "西游记/西游记_第2课时_水帘洞_深度探究版.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第3课时_中国古建筑",
+      "theme": "西游记",
+      "title": "西游记 第3课时 中国古建筑",
+      "filepath": "西游记/西游记_第3课时_中国古建筑.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第3课时_悟空造型_深度探究版",
+      "theme": "西游记",
+      "title": "西游记 第3课时 悟空造型 深度探究版",
+      "filepath": "西游记/西游记_第3课时_悟空造型_深度探究版.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第4课时_中国古建筑",
+      "theme": "西游记",
+      "title": "西游记 第4课时 中国古建筑",
+      "filepath": "西游记/西游记_第4课时_中国古建筑.md"
+    },
+    {
+      "id": "plan_西游记_西游记_第4课时_师徒取经_深度探究版",
+      "theme": "西游记",
+      "title": "西游记 第4课时 师徒取经 深度探究版",
+      "filepath": "西游记/西游记_第4课时_师徒取经_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第1课时_互锁结构",
+      "theme": "超市购物",
+      "title": "超市购物 第1课时 互锁结构",
+      "filepath": "超市购物/超市购物_第1课时_互锁结构.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第1课时_互锁结构_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第1课时 互锁结构 深度探究版",
+      "filepath": "超市购物/超市购物_第1课时_互锁结构_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第2课时_互锁结构",
+      "theme": "超市购物",
+      "title": "超市购物 第2课时 互锁结构",
+      "filepath": "超市购物/超市购物_第2课时_互锁结构.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第2课时_轮轴系统_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第2课时 轮轴系统 深度探究版",
+      "filepath": "超市购物/超市购物_第2课时_轮轴系统_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第3课时_互锁结构",
+      "theme": "超市购物",
+      "title": "超市购物 第3课时 互锁结构",
+      "filepath": "超市购物/超市购物_第3课时_互锁结构.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第3课时_动线规划_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第3课时 动线规划 深度探究版",
+      "filepath": "超市购物/超市购物_第3课时_动线规划_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第4课时_互锁结构",
+      "theme": "超市购物",
+      "title": "超市购物 第4课时 互锁结构",
+      "filepath": "超市购物/超市购物_第4课时_互锁结构.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第4课时_综合应用_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第4课时 综合应用 深度探究版",
+      "filepath": "超市购物/超市购物_第4课时_综合应用_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第5课时_收银系统_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第5课时 收银系统 深度探究版",
+      "filepath": "超市购物/超市购物_第5课时_收银系统_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第6课时_货架布局_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第6课时 货架布局 深度探究版",
+      "filepath": "超市购物/超市购物_第6课时_货架布局_深度探究版.md"
+    },
+    {
+      "id": "plan_超市购物_超市购物_第7课时_角色扮演_深度探究版",
+      "theme": "超市购物",
+      "title": "超市购物 第7课时 角色扮演 深度探究版",
+      "filepath": "超市购物/超市购物_第7课时_角色扮演_深度探究版.md"
+    }
+  ]
+}
